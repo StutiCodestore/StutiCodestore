@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Stuti Singhal
+- I'm working at Codestore Solutions as Trainee Software Engineer
+- 👀 I’m interested in MERN Technologies 
+- 🌱 I’m currently learning React Naive and typscript which are basically the tools for working on mobile app development
+- 📫 To reach me- stuti.s@codestoresolutions.com
